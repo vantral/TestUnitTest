@@ -1,0 +1,3 @@
+[submodule "tests/test-cases-private"]
+	path = tests/test-cases-private
+	url = https://github.com/vantral/privateUnit
