@@ -1,3 +1,3 @@
 user_input = input()
 
-print(user_input.split())
+print(user_input.split('H'))
